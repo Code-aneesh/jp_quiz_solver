@@ -1,0 +1,16 @@
+2025-08-13 14:41:37,074 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-13 14:41:37,087 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-13 14:41:37,087 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-13 14:41:37,136 - ultimate_main - INFO - ✅ OpenAI provider initialized
+2025-08-13 14:41:37,136 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini', 'openai']
+2025-08-13 14:41:37,568 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-13 14:41:37,593 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-13 14:41:37,597 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-13 14:56:44,918 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-13 14:56:44,918 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-13 14:56:44,918 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-13 14:56:44,954 - ultimate_main - INFO - ✅ OpenAI provider initialized
+2025-08-13 14:56:44,954 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini', 'openai']
+2025-08-13 14:56:44,971 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-13 14:56:44,987 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-13 14:56:44,989 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully

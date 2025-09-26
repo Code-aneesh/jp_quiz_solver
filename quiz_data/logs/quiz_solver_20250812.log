@@ -1,0 +1,2199 @@
+2025-08-12 18:41:47,628 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:41:47,674 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:41:47,675 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:41:47,675 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:41:48,171 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:41:48,191 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:41:48,194 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 18:43:04,015 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:43:04,016 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:43:04,016 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:43:04,016 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:43:04,031 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:43:04,046 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:43:04,049 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 18:44:26,071 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:44:26,072 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:44:26,072 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:44:26,072 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:44:26,088 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:44:26,104 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:44:26,106 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 18:44:42,004 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:44:42,005 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:44:42,005 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:44:42,005 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:44:42,019 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:44:42,036 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:44:42,038 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 18:47:25,258 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:47:25,259 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:47:25,259 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:47:25,259 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:47:25,273 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:47:25,289 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:47:25,291 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 18:50:59,006 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:50:59,007 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:50:59,007 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:50:59,007 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:50:59,021 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:50:59,039 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:50:59,041 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 18:51:43,396 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 18:51:43,398 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 18:51:43,398 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 18:51:43,398 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 18:51:43,412 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 18:51:43,430 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 18:51:43,433 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:03:45,320 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:03:45,321 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:03:45,321 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:03:45,321 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:03:45,336 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:03:45,354 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:03:45,357 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:13:03,202 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:13:03,203 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:13:03,204 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:13:03,204 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:13:03,219 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:13:03,235 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:13:03,238 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:13:12,147 - ultimate_main - INFO - Scanning monitor 1: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:13:12,237 - ultimate_main - INFO - Screenshot saved to: C:\Users\user\OneDrive\Desktop\QUIZZ\jp_quiz_solver\quiz_data\debug_screenshot.png
+2025-08-12 19:13:12,257 - ultimate_main - INFO - Detected 3 regions
+2025-08-12 19:13:12,257 - ultimate_main - INFO - Processing region 1/3: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:14:01,615 - ultimate_main - INFO - OCR detected text: + ・ >) = ロ ベ 口 python ultimate_gui.py Settings (u pdate Warp ン A ⑲ に ル ~\OneDrive\Desktop\QUIZZ\jp_q...
+2025-08-12 19:14:01,616 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:14:04,829 - ultimate_main - INFO - ✅ gemini responded in 3.21s
+2025-08-12 19:14:04,847 - ultimate_main - INFO - Found result with confidence 0.88
+2025-08-12 19:14:04,847 - ultimate_main - INFO - Processing region 2/3: {'left': 72, 'top': 170, 'width': 973, 'height': 689}
+2025-08-12 19:14:17,823 - ultimate_main - INFO - OCR detected text: 圏 拐 Al-powered full-text translation with preserved formatting. ⑧ 問 題 T の こ と ば は ど う か き ま す か 。 ⑫ ...
+2025-08-12 19:14:17,824 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:14:25,225 - ultimate_main - INFO - ✅ gemini responded in 7.40s
+2025-08-12 19:14:25,245 - ultimate_main - INFO - Found result with confidence 0.93
+2025-08-12 19:14:25,245 - ultimate_main - INFO - Processing region 3/3: {'left': 57, 'top': 508, 'width': 68, 'height': 20}
+2025-08-12 19:14:31,205 - ultimate_main - INFO - Scan completed. Found 2 results.
+2025-08-12 19:14:31,722 - ultimate_main - INFO - Scanning monitor 1: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:14:31,804 - ultimate_main - INFO - Screenshot saved to: C:\Users\user\OneDrive\Desktop\QUIZZ\jp_quiz_solver\quiz_data\debug_screenshot.png
+2025-08-12 19:14:31,815 - ultimate_main - INFO - Detected 10 regions
+2025-08-12 19:14:31,815 - ultimate_main - INFO - Processing region 1/10: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:15:08,604 - ultimate_main - INFO - OCR detected text: W Home 闘 ⑳0⑤ 年 日 這 能 力 考 送 四 鋒 真 罰 に + New 4 Upgrade now ベ = File 白 向 Vv Home Edit Page Comment Tool...
+2025-08-12 19:15:08,605 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:15:11,748 - ultimate_main - INFO - ✅ gemini responded in 3.14s
+2025-08-12 19:15:11,776 - ultimate_main - INFO - Found result with confidence 0.87
+2025-08-12 19:15:11,777 - ultimate_main - INFO - Processing region 2/10: {'left': 0, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:16:28,972 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:16:28,975 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:16:28,975 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:16:28,975 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:16:28,989 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:16:29,005 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:16:29,007 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:16:52,289 - ultimate_main - INFO - Scanning monitor 1: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:16:52,375 - ultimate_main - INFO - Screenshot saved to: C:\Users\user\OneDrive\Desktop\QUIZZ\jp_quiz_solver\quiz_data\debug_screenshot.png
+2025-08-12 19:16:52,394 - ultimate_main - INFO - Detected 10 regions
+2025-08-12 19:16:52,394 - ultimate_main - INFO - Processing region 1/10: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:17:21,350 - ultimate_main - INFO - OCR detected text: W Home 闘 ⑳0⑤ 年 日 這 能 力 考 送 四 鋒 真 窪 ロ 〆 + New Oo ー m ベ = Fil ー ー ー ー ド ~ 國 い Tool Fill & Si Protect [...
+2025-08-12 19:17:21,351 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:17:29,408 - ultimate_main - INFO - ✅ gemini responded in 8.06s
+2025-08-12 19:17:29,434 - ultimate_main - INFO - Found result with confidence 0.86
+2025-08-12 19:17:29,434 - ultimate_main - INFO - Processing region 2/10: {'left': 0, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:17:37,430 - ultimate_main - INFO - OCR detected text: W Home = ? Ed ⑳0⑤ 年 日 這 能 力 考 送 四 鋒 真 ら ー - ト = File W @ Ultimate Japanese Quiz Solver OH File Tools...
+2025-08-12 19:17:37,430 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:17:40,903 - ultimate_main - INFO - ✅ gemini responded in 3.47s
+2025-08-12 19:17:40,931 - ultimate_main - INFO - Found result with confidence 0.91
+2025-08-12 19:17:40,931 - ultimate_main - INFO - Processing region 3/10: {'left': 480, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:17:48,334 - ultimate_main - INFO - OCR detected text: - New L Tool 団 ベ ーーーーーーー ー 志 ド に ニ ====================== ュ 圖 Stop Scanning ① Select Region 惟 Text c...
+2025-08-12 19:17:48,334 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:17:52,383 - ultimate_main - INFO - ✅ gemini responded in 4.05s
+2025-08-12 19:17:52,406 - ultimate_main - INFO - Found result with confidence 0.80
+2025-08-12 19:17:52,407 - ultimate_main - INFO - Processing region 4/10: {'left': 960, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:18:00,334 - ultimate_main - INFO - OCR detected text: Fill & Sign Protect Convert + WPS Al TAl 虔繍 寓 Al Extract Text ~ Q Find and F o—o ー 一 と ー コ し ⑧ | Tex...
+2025-08-12 19:18:00,335 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:18:02,954 - ultimate_main - INFO - ✅ gemini responded in 2.62s
+2025-08-12 19:18:02,976 - ultimate_main - INFO - Found result with confidence 0.86
+2025-08-12 19:18:02,977 - ultimate_main - INFO - Processing region 5/10: {'left': 1440, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:18:10,615 - ultimate_main - INFO - OCR detected text: oO @ 4 Upgrade now = ia x Ca Unsynchronized [ share ] eplace 126.91% マ ス Q @ LS Rotate All Pages in ...
+2025-08-12 19:18:10,615 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:18:13,352 - ultimate_main - INFO - ✅ gemini responded in 2.74s
+2025-08-12 19:18:13,371 - ultimate_main - INFO - Found result with confidence 0.81
+2025-08-12 19:18:13,373 - ultimate_main - INFO - Processing region 6/10: {'left': 0, 'top': 270, 'width': 480, 'height': 270}
+2025-08-12 19:18:25,360 - ultimate_main - INFO - OCR detected text: M ー m レ ビ ー “0 fe Question Type + Seus lScenmro_」 圓 Results レ | Screen Scanning: Ready に Hotkeys: Co...
+2025-08-12 19:18:25,360 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:18:29,221 - ultimate_main - INFO - ✅ gemini responded in 3.86s
+2025-08-12 19:18:29,245 - ultimate_main - INFO - Found result with confidence 0.80
+2025-08-12 19:18:29,246 - ultimate_main - INFO - Processing region 7/10: {'left': 480, 'top': 270, 'width': 480, 'height': 270}
+2025-08-12 19:18:38,555 - ultimate_main - INFO - OCR detected text: の こ と ば は ど う か き ま す っ ぴ び な さ い 。 と や ま に の ぼ り ま し た 。 ョ ①. 婦 ②. Ii} ③. 奴 ④. 母 16 2m 38.14 4 凸 ゆ ...
+2025-08-12 19:18:38,556 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:18:42,652 - ultimate_main - INFO - ✅ gemini responded in 4.10s
+2025-08-12 19:18:42,677 - ultimate_main - INFO - Found result with confidence 0.88
+2025-08-12 19:18:42,678 - ultimate_main - INFO - Processing region 8/10: {'left': 960, 'top': 270, 'width': 480, 'height': 270}
+2025-08-12 19:18:49,214 - ultimate_main - INFO - OCR detected text: か 。 ⑫③④ か ら い ち ば ん い い も の を き...
+2025-08-12 19:18:49,214 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:18:53,304 - ultimate_main - INFO - ✅ gemini responded in 4.09s
+2025-08-12 19:18:53,323 - ultimate_main - INFO - Found result with confidence 0.81
+2025-08-12 19:18:53,323 - ultimate_main - INFO - Processing region 9/10: {'left': 1440, 'top': 270, 'width': 480, 'height': 270}
+2025-08-12 19:19:04,513 - ultimate_main - INFO - OCR detected text: ig Confidence PB] Im Question Type [None 4 Status [Scanning Results レ | Screen Scanning: Ready に Hot...
+2025-08-12 19:19:04,513 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:19:10,920 - ultimate_main - INFO - ✅ gemini responded in 6.41s
+2025-08-12 19:19:10,940 - ultimate_main - INFO - Found result with confidence 0.83
+2025-08-12 19:19:10,940 - ultimate_main - INFO - Processing region 10/10: {'left': 0, 'top': 540, 'width': 480, 'height': 270}
+2025-08-12 19:19:17,324 - ultimate_main - INFO - OCR detected text: (①⑧) . こ ん (①⑨) . て ん 間 ③・ そ の ⑳) . ち い ②①) . か れ...
+2025-08-12 19:19:17,325 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:19:20,586 - ultimate_main - INFO - ✅ gemini responded in 3.26s
+2025-08-12 19:19:20,608 - ultimate_main - INFO - Found result with confidence 0.79
+2025-08-12 19:19:20,609 - ultimate_main - INFO - Scan completed. Found 10 results.
+2025-08-12 19:19:21,125 - ultimate_main - INFO - Scanning monitor 1: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:19:21,214 - ultimate_main - INFO - Screenshot saved to: C:\Users\user\OneDrive\Desktop\QUIZZ\jp_quiz_solver\quiz_data\debug_screenshot.png
+2025-08-12 19:19:21,227 - ultimate_main - INFO - Detected 10 regions
+2025-08-12 19:19:21,227 - ultimate_main - INFO - Processing region 1/10: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:20:00,861 - ultimate_main - INFO - OCR detected text: v uome 国 迦 脈 カ ぎ 医 四 鉤 君 君 ロ メ ー キ New ロ @ - ロ x = File | 呼 】 同 v Home Edit Page Comment Tool Fill 8...
+2025-08-12 19:20:00,861 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:30:53,854 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:30:53,855 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:30:53,856 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:30:53,856 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:30:53,873 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:30:53,890 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:30:53,893 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:30:59,649 - ultimate_main - INFO - ✅ gemini responded in 5.76s
+2025-08-12 19:31:05,113 - ultimate_main - INFO - ✅ gemini responded in 4.45s
+2025-08-12 19:31:09,935 - ultimate_main - INFO - ✅ gemini responded in 3.81s
+2025-08-12 19:31:14,415 - ultimate_main - INFO - ✅ gemini responded in 3.47s
+2025-08-12 19:31:19,315 - ultimate_main - INFO - ✅ gemini responded in 3.89s
+2025-08-12 19:31:23,897 - ultimate_main - INFO - ✅ gemini responded in 3.58s
+2025-08-12 19:31:29,368 - ultimate_main - INFO - ✅ gemini responded in 4.46s
+2025-08-12 19:31:34,528 - ultimate_main - INFO - ✅ gemini responded in 4.15s
+2025-08-12 19:31:39,588 - ultimate_main - INFO - ✅ gemini responded in 4.05s
+2025-08-12 19:35:31,032 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:35:31,033 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:35:31,034 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:35:31,034 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:35:31,053 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:35:31,072 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:35:31,075 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:35:41,081 - ultimate_main - INFO - Scanning monitor 1: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:35:41,159 - ultimate_main - INFO - Screenshot saved to: C:\Users\user\OneDrive\Desktop\QUIZZ\jp_quiz_solver\quiz_data\debug_screenshot.png
+2025-08-12 19:35:41,174 - ultimate_main - INFO - Detected 10 regions
+2025-08-12 19:35:41,174 - ultimate_main - INFO - Processing region 1/10: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-08-12 19:36:33,027 - ultimate_main - INFO - OCR detected text: 闘 年 日 這 能 力 考 四 鋒 真 實 ロ 4 ベ 白 向 4 ャ 志 ・ ン ャ 思 マ 肋 く ロ ロ 団 ベ 3 ベ ーーーーーーーーーーーーーーーーーーーーーーーーー ョ ネ ヒ ニ ニ ...
+2025-08-12 19:36:33,027 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:36:35,205 - ultimate_main - INFO - ✅ gemini responded in 2.18s
+2025-08-12 19:36:35,227 - ultimate_main - INFO - Found result with confidence 0.87
+2025-08-12 19:36:35,227 - ultimate_main - INFO - Processing region 2/10: {'left': 0, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:36:46,516 - ultimate_main - INFO - OCR detected text: 一・ し メ ・′ ヨ ー ど ど ー は し Eー 曰 ノ い ォ ー 一 怪 す 4 ー ン A 屍 し ャ テ ク ー ョ ・ ....
+2025-08-12 19:36:46,516 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:36:48,635 - ultimate_main - INFO - ✅ gemini responded in 2.12s
+2025-08-12 19:36:48,661 - ultimate_main - INFO - Found result with confidence 0.88
+2025-08-12 19:36:48,662 - ultimate_main - INFO - Processing region 3/10: {'left': 480, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:37:00,138 - ultimate_main - INFO - OCR detected text: し し し ・ し ・ ・ し ァ ー 一 ー 一 ー た ー ン ご ン リ ・ ・ ・ . し ル ト し し し ・ ・ B し い し し ・ ル ョ ル ー ル ン ど ル ル ② し ー ...
+2025-08-12 19:37:00,138 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:37:01,557 - ultimate_main - INFO - ✅ gemini responded in 1.42s
+2025-08-12 19:37:01,579 - ultimate_main - INFO - Found result with confidence 0.76
+2025-08-12 19:37:01,580 - ultimate_main - INFO - Processing region 4/10: {'left': 960, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:37:14,413 - ultimate_main - INFO - OCR detected text: '・ ド ド し ド ① 条 ル 4 し し し 0 ーーー ッ と レ ー ッ ト ン ァ ー じ ーー ャ ー ア ン ー ド ュ に ッ ル し ・ し い ・ 閻 ー と ー て と ー ル ...
+2025-08-12 19:37:14,414 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:37:16,702 - ultimate_main - INFO - ✅ gemini responded in 2.29s
+2025-08-12 19:37:16,726 - ultimate_main - INFO - Found result with confidence 0.78
+2025-08-12 19:37:16,727 - ultimate_main - INFO - Processing region 5/10: {'left': 1440, 'top': 0, 'width': 480, 'height': 270}
+2025-08-12 19:37:28,400 - ultimate_main - INFO - OCR detected text: ロ C 啓 証 り ゥ r靱 し ー@ ァ し レ ル し し し し し ー で 碇 刊 ① 月 け コ ま ① し ② れ...
+2025-08-12 19:37:28,400 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:37:30,556 - ultimate_main - INFO - ✅ gemini responded in 2.16s
+2025-08-12 19:37:30,577 - ultimate_main - INFO - Found result with confidence 0.82
+2025-08-12 19:37:30,578 - ultimate_main - INFO - Processing region 6/10: {'left': 0, 'top': 270, 'width': 480, 'height': 270}
+2025-08-12 19:37:40,766 - ultimate_main - INFO - OCR detected text: 問 題 ひ と つ え 呑 ①・ は は . (16). は に (17). や ま 問 ぅ ・ こ ん...
+2025-08-12 19:37:40,766 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:37:43,591 - ultimate_main - INFO - ✅ gemini responded in 2.82s
+2025-08-12 19:37:43,614 - ultimate_main - INFO - Found result with confidence 0.86
+2025-08-12 19:37:43,614 - ultimate_main - INFO - Processing region 7/10: {'left': 480, 'top': 270, 'width': 480, 'height': 270}
+2025-08-12 19:37:56,940 - ultimate_main - INFO - OCR detected text: の こ と ば は ど う か き ま す っ ぴ び な さ い と や ま に の ぼ り ま し た ョ ①. 婦 ②. ③. 奴 ④. 母 16 38.14 4 凸 ゆ う よ て で て ん...
+2025-08-12 19:37:56,940 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:41:08,971 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:41:08,973 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:41:08,973 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:41:08,973 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:41:08,986 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:41:09,005 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:41:09,008 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:41:50,742 - ultimate_main - INFO - OCR detected text: イ ー翼…' ) ヵ き ま す か か ら い ち ば ん い い も の を 弓 . 母 3. 令 週 4. 令 過 リ 團 騙 . 矢 気 ④. 矢 汽 ー ー き い 0) . ち い さ き...
+2025-08-12 19:41:50,743 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:41:54,052 - ultimate_main - INFO - ✅ gemini responded in 3.31s
+2025-08-12 19:42:19,650 - ultimate_main - INFO - OCR detected text: ー ー 題 の こ と ば は ど う か き ま す か か ら い ち ば ん い い も の を と つ え ら び な さ い ①・ は は と や ま に の ぼ り ま し た は は 1...
+2025-08-12 19:42:19,650 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:46:36,544 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 19:46:36,545 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 19:46:36,545 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 19:46:36,545 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 19:46:36,560 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 19:46:36,575 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 19:46:36,578 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 19:47:15,996 - ultimate_main - INFO - OCR detected text: 問 題 の こ と ば は ど う か き ま す か か ら い ち ひ と つ え ら び な さ い 問 ①・ は は と や ま に の ぼ り ま し た じ ) っ て (16) 1.98...
+2025-08-12 19:47:15,996 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:47:20,966 - ultimate_main - INFO - ✅ gemini responded in 4.97s
+2025-08-12 19:47:42,662 - ultimate_main - INFO - OCR detected text: 問 題 の こ と ば は ど う か き ま す か か ら い ち ば ん い し ひ と つ え ら び な さ い 問 ①・ は は と や ま に の ぼ り ま し た は は ①. 婦 ...
+2025-08-12 19:47:42,663 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:47:46,850 - ultimate_main - INFO - ✅ gemini responded in 4.19s
+2025-08-12 19:48:08,909 - ultimate_main - INFO - OCR detected text: 問 題 の こ と ば は ど う か き ま す か か ら い ち ば ん い し ひ と つ え ら び な さ い 問 ①・ は は と や ま に の ぼ り ま し た は は ①. 婦 ...
+2025-08-12 19:48:08,910 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:48:36,190 - ultimate_main - INFO - OCR detected text: 問 題 の こ と ば は ど う か き ま す か か ・ 滝 和 ひ と つ え ら び な さ い ビ ー 問 ①・ は は と や ま に の ぼ り ま し た 時 コ リ は は ①. ...
+2025-08-12 19:48:36,191 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:48:41,494 - ultimate_main - INFO - ✅ gemini responded in 5.30s
+2025-08-12 19:49:07,146 - ultimate_main - INFO - OCR detected text: ダ ト ー む い か の ( あ い ま ① じ ょ わ 弾 ②④④ も む い か A ン ム ス ン ユ ョ ム ン ン ョ パ ス つ 剛髏 シ ラ ラ ご る 剛鵬”陶剛 ーー ーー ーー ...
+2025-08-12 19:49:07,146 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:49:10,332 - ultimate_main - INFO - ✅ gemini responded in 3.19s
+2025-08-12 19:49:28,393 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三n縄縄言雷「三壺壬真言壹‥真喜夏ー翼宣三圭壷凛瑚〔e〝s萱萱。讐翼董ーy{‥ー...
+2025-08-12 19:49:28,393 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 19:49:30,786 - ultimate_main - INFO - ✅ gemini responded in 2.39s
+2025-08-12 19:49:47,271 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8L蓼宣具菩亘言言臺…喜ー喜真言言h0SenanSWe「iS引WaySSh。Wn臼fte「th...
+2025-08-12 19:49:47,271 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:49:49,653 - ultimate_main - INFO - ✅ gemini responded in 2.38s
+2025-08-12 19:50:07,307 - ultimate_main - INFO - OCR detected text: っ ( む い か が っ ( 五 曰 ( 團...
+2025-08-12 19:50:07,308 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 19:50:09,184 - ultimate_main - INFO - ✅ gemini responded in 1.88s
+2025-08-12 19:50:54,026 - ultimate_main - INFO - OCR detected text: ぞ ら ⑤ り せ し し 1 問 題 の こ と ば は ど う か き ま す ) え ら ぴ な さ い は と や ま に の ぽ り ま し た じ ) っ て (16) 1.98... 0...
+2025-08-12 19:50:54,026 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:50:56,377 - ultimate_main - INFO - ✅ gemini responded in 2.35s
+2025-08-12 19:51:17,278 - ultimate_main - INFO - OCR detected text: ( 六 日 ) む い か の ご ご に あ い ま し ょ う . む い か 圖 く ④ く こ ① 十 ・...
+2025-08-12 19:51:17,278 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:51:20,373 - ultimate_main - INFO - ✅ gemini responded in 3.09s
+2025-08-12 19:51:45,210 - ultimate_main - INFO - OCR detected text: に ペ ー ム て プ ペ ペ ブ ー セ ー え ム ー シ ー ン ッ ク に ご ペ ワ ラ ー ペ ュ パ コ 25608212 ら ゥ ⑪@鱒側...
+2025-08-12 19:51:45,210 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:51:47,448 - ultimate_main - INFO - ✅ gemini responded in 2.24s
+2025-08-12 19:52:16,255 - ultimate_main - INFO - OCR detected text: 圏 国 問 題 の こ と ば は ど う か き ま す か か ら い ち ば ん い ひ と つ え ら び な さ い 問 ①・ は は と や ま に の ぼ り ま し た は は 1.3...
+2025-08-12 19:52:16,255 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:52:25,655 - ultimate_main - INFO - ✅ gemini responded in 9.40s
+2025-08-12 19:52:51,500 - ultimate_main - INFO - OCR detected text: ( 特 に 問 伊 週 . 1. 2. 一 3. っ...
+2025-08-12 19:52:51,500 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:52:51,939 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-08-12 19:53:13,483 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8喜宣具雪雪臺喜言皇臺菫重享宣臺萱皇重雪宣臺量宣言言...
+2025-08-12 19:53:13,483 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:53:13,979 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-08-12 19:53:35,635 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8喜宣具雪雪臺喜言皇臺菫重享宣臺萱皇重雪宣臺量宣言言...
+2025-08-12 19:53:35,635 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:53:49,587 - ultimate_main - INFO - OCR detected text: 皇言言宣言三n沁田幟璽實奮璽0璽こ?萱k實萱實w亘鰻帥卿馴g...
+2025-08-12 19:53:49,587 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:53:51,647 - ultimate_main - INFO - ✅ gemini responded in 2.06s
+2025-08-12 19:54:14,212 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8善言壽萱言壽言亨言言言ー言言宣言言亨三亨言言言言言言言言...
+2025-08-12 19:54:14,213 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:54:14,640 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-08-12 19:54:36,777 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8善言壽萱言壽言亨言言言ー言言宣言言亨三亨言言言言言言言言...
+2025-08-12 19:54:36,777 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:55:04,359 - ultimate_main - INFO - OCR detected text: 1. は 始 . 2. カ レ シ ダ ー ) 3. 4. セ [(rr([+耆(〔 ー〔+( 炊 +。kー( F(ー...
+2025-08-12 19:55:04,359 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:55:04,821 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-08-12 19:55:23,296 - ultimate_main - INFO - OCR detected text: に ヽ ョ ュ レ ュ ュ ① ュ に ビ ュ テ ニ ン ー コ ュ ョ ュ ヽ D 一...
+2025-08-12 19:55:23,296 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:55:23,734 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 35
+}
+]
+2025-08-12 19:55:45,403 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8亡言言享言=宣亨言真宣言亘亘言言喜呈三言青亨亨臺呈真言喜睾呈言雲亘言墓言呈ー臺臺亡ーごーー...
+2025-08-12 19:55:45,404 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:55:45,810 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-08-12 19:56:09,442 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言宣臺ナ喜賣喜喜壽亘享喜喜喜享皇喜喜喜亘宣言宣董k宣言n言ご亘實亨言ー:丁了墓...
+2025-08-12 19:56:09,442 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:56:09,972 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-08-12 19:56:33,980 - ultimate_main - INFO - OCR detected text: 聰鵬胴轟⑪伽 ⑪ー囁⑪魎剛@( ら ら ら と じ 暴 ① ュ 更 ヾ...
+2025-08-12 19:56:33,981 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 19:56:34,451 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-12 19:56:58,387 - ultimate_main - INFO - OCR detected text: 六 日 し し し . し っ っ っ ー ャ 与 ル...
+2025-08-12 19:56:58,389 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 19:56:58,932 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-08-12 19:57:24,155 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8鼻hic言宣臺言喜臺臺亘章宣鼻重董喜宣喜董萱三喜三莫宣宣ご...
+2025-08-12 19:57:24,156 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:57:24,547 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-08-12 19:57:48,068 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8j冒宣阜量宣董菫童言臺喜臺實言言言言言亨宣亨宣萱言言臺享言言言言言三...
+2025-08-12 19:57:48,068 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:57:48,469 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-08-12 19:58:12,231 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8j冒宣阜量宣董菫童言臺喜臺實言言言言言亨宣亨宣萱言言臺享言言言言言三...
+2025-08-12 19:58:12,231 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:58:33,474 - ultimate_main - INFO - OCR detected text: 3) 1. ① 2. 2 . 3. 3...
+2025-08-12 19:58:33,474 - ultimate_main - INFO - Japanese: False, Numbers: True, Options: True
+2025-08-12 19:58:33,969 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-12 19:58:59,430 - ultimate_main - INFO - OCR detected text: り ら 虎樽甜孵 じ 顆 凧 ト ー ネ ネ ネ ネ 一...
+2025-08-12 19:58:59,430 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 19:58:59,897 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-08-12 19:59:22,255 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8喜喜喜亘喜皇宣喜喜言實暑喜言喜亘喜亘宣喜菫真茎暑ナこ喜亘亘菫臺暑菫ー亘言享...
+2025-08-12 19:59:22,255 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 19:59:22,770 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-12 19:59:45,305 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8喜喜喜亘喜皇宣喜喜言實暑喜言喜亘喜亘宣喜菫真茎暑ナこ喜亘亘菫臺暑菫ー亘言享...
+2025-08-12 19:59:45,306 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:00:09,462 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8喜言喜亘喜皇宣喜言言宣暑喜言喜亘菫亘亘宣真享真茎暑ナこ亘重菫臺喜真亡彗宣享...
+2025-08-12 20:00:09,462 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:00:09,972 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-08-12 20:00:33,618 - ultimate_main - INFO - OCR detected text: ー ー 輔 2.10)...
+2025-08-12 20:00:33,618 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:00:36,110 - ultimate_main - INFO - ✅ gemini responded in 2.49s
+2025-08-12 20:01:00,309 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8曇喜亘重葺臺喜重亘皇菫皇喜臺喜臺ー喜睾臺睾喜臺言暑...
+2025-08-12 20:01:00,309 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:01:00,706 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2025-08-12 20:01:24,355 - ultimate_main - INFO - OCR detected text: 彡 り ② 頭 り 3 ノ 2.10) ① 謀 ー...
+2025-08-12 20:01:24,356 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:01:24,850 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-08-12 20:01:46,840 - ultimate_main - INFO - OCR detected text: 闘 一 し し し し 圏...
+2025-08-12 20:01:46,841 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:01:47,252 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+]
+2025-08-12 20:02:09,891 - ultimate_main - INFO - OCR detected text: ー ら 阻峡 じ ー 一 ー 一 一 一 一 ら ①雄e=ayG…transparentaーway ー 一...
+2025-08-12 20:02:09,891 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:02:10,486 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-08-12 20:02:33,763 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。幟童喜菫亘喜亘菫皇亘亘喜亘菫喜量喜喜宣宣菫喜喜真喜ー量三真工夏臺...
+2025-08-12 20:02:33,763 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:02:34,290 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-12 20:02:57,163 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。幟童喜菫亘喜亘菫皇亘亘喜亘菫喜量喜喜宣宣菫喜喜真喜ー量三真工夏臺...
+2025-08-12 20:02:57,163 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:03:20,484 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。幟童喜菫亘喜亘菫皇亘亘喜亘菫喜量喜喜宣宣菫喜喜真喜ー量三真工夏臺...
+2025-08-12 20:03:20,484 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:03:44,735 - ultimate_main - INFO - OCR detected text: 臺言亘宣言三nY。L。V8皇喜重亘喜亘菫皇亘宣喜真亘真喜養喜喜宣宣亘言喜喜真亘皇三臺工喜菫三量...
+2025-08-12 20:03:44,735 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:03:45,175 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-08-12 20:04:09,697 - ultimate_main - INFO - OCR detected text: 臺言亘宣言三nY。L。V8皇喜重亘喜亘菫皇亘宣喜真亘真喜養喜喜宣宣亘言喜喜真亘皇三臺工喜菫三量...
+2025-08-12 20:04:09,697 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:04:36,167 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8曇臺賣亘皇喜菫呈喜亘喜言臺喜主言喜宴喜菫言喜言言言臺宣言言豊呈...
+2025-08-12 20:04:36,167 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:04:36,687 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 22
+}
+]
+2025-08-12 20:05:03,693 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8菫臺亘亘皇臺茎喜呈享言臺喜董臺臺菫臺喜菫呈臺量呈皇量...
+2025-08-12 20:05:03,694 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:05:04,174 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-08-12 20:05:16,554 - ultimate_main - INFO - OCR detected text: p量董e臺三三言三nY〇L〇〉8...
+2025-08-12 20:05:16,554 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:05:17,007 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-08-12 20:05:32,360 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三〔Y。鱒嚼臺董‥曹‥邑酉彗‥董飄ごrg賣es廿0ns...
+2025-08-12 20:05:32,360 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:05:32,789 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 26
+}
+]
+2025-08-12 20:06:03,752 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8菫臺董喜喜書臺臺皇彗喜菫葺臺菫臺喜宣重言...
+2025-08-12 20:06:03,753 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:06:04,207 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2025-08-12 20:06:27,650 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8壽喜雪喜皇喜宣菫喜菫言亘亘冨重喜ご喜亘喜ー喜喜至亘量喜...
+2025-08-12 20:06:27,650 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:06:28,056 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2025-08-12 20:06:51,634 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。叩幟主i言言言言壽言亭雲言三言亨言言言亭言言言亨言‥言宣量言置言...
+2025-08-12 20:06:51,634 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:06:52,049 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 6
+}
+]
+2025-08-12 20:07:12,908 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8喜丁雪重善喜臺ー宣亨亘言喜壹宣宣三こ言ー章三臺三呈董亡亨臺ー菖臺言呈ーi三rt三重‥言...
+2025-08-12 20:07:12,908 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:07:13,328 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 45
+}
+]
+2025-08-12 20:07:36,204 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8喜丁雪重善喜臺ー宣亨亘言喜壹宣宣三こ言ー章三臺三呈董亡亨臺ー菖臺言呈ーi三rt三重‥言...
+2025-08-12 20:07:36,204 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:07:57,847 - ultimate_main - INFO - OCR detected text: 一 ( . )...
+2025-08-12 20:07:57,847 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:07:58,268 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-08-12 20:08:20,462 - ultimate_main - INFO - OCR detected text: 一 ( . )...
+2025-08-12 20:08:20,462 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:08:41,757 - ultimate_main - INFO - OCR detected text: 一 ( . )...
+2025-08-12 20:08:41,757 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:09:04,409 - ultimate_main - INFO - OCR detected text: 一 ( . )...
+2025-08-12 20:09:04,409 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:09:24,966 - ultimate_main - INFO - OCR detected text: ( . ) デ ー リ ョ レ ニ レ ェ...
+2025-08-12 20:09:24,967 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:09:25,488 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-08-12 20:09:46,090 - ultimate_main - INFO - OCR detected text: ⑤ 向 る 向 2.10)...
+2025-08-12 20:09:46,090 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:09:46,611 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-08-12 20:10:06,982 - ultimate_main - INFO - OCR detected text: ⑤ 向 る 向 2.10)...
+2025-08-12 20:10:06,982 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:10:27,915 - ultimate_main - INFO - OCR detected text: ⑤ 向 る 向 2.10)...
+2025-08-12 20:10:27,915 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:10:48,975 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。m幟奪…董星萱言喜董言臺言言言言言璧言量言臺亭臺雪言ー菖t宣言墓宣言言三言喜言昌賣景...
+2025-08-12 20:10:48,975 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:10:49,483 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+2025-08-12 20:11:14,811 - ultimate_main - INFO - OCR detected text: 陶 ⑤ び 0 か び か な ひ か ル カ カ り 曽 卿 鯛剛麓 ⑪岬剛 ド イ ① 0 コ イ ① ① ① コ イ イ ① レ ニ ド ッ い...
+2025-08-12 20:11:14,811 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:11:15,245 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-08-12 20:11:39,187 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8雪雪臺言量言亘皇壹言壹皇喜亨言冒書ー霊言言?言臺菫壷璧呈宣臺言董dー...
+2025-08-12 20:11:39,188 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:11:39,726 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-08-12 20:12:03,377 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。囮幟・Th皇呈言臺臺言臺臺言宣宣宣宣亨ー宣宣言萱亘臺u言r宣亘宣言宣責宣宣言宣宣宣宣a言t亘ー亘言喜臺亘...
+2025-08-12 20:12:03,377 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:12:03,886 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-12 20:12:23,892 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8畠喜喜喜言喜t呈呈ー量呈ご墓呈璽三享臺r臺ー鼻;ー鼻韋實ーa』實ごep縄了t實ごーtt董...
+2025-08-12 20:12:23,892 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:12:24,311 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-08-12 20:12:46,736 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8重享墓宣喜言曇言喜臺喜喜亘亘皇喜菫墓暑三票亘ー喜三呈ー亘呈夏工亡呈呈睾呈具呈菫...
+2025-08-12 20:12:46,736 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:12:47,130 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+]
+2025-08-12 20:13:09,477 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三〝粕⑪臺言喜臺言臺臺三臺喜葺臺臺臺臺呈臺臺呈呈呈呈喜呈呈呈呈呈...
+2025-08-12 20:13:09,477 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:13:09,927 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-08-12 20:13:32,463 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三〝粕⑪臺言喜臺言臺臺三臺喜葺臺臺臺臺呈臺臺呈呈呈呈喜呈呈呈呈呈...
+2025-08-12 20:13:32,464 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:13:55,115 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三〝粕⑪臺言喜臺言臺臺三臺喜葺臺臺臺臺呈臺臺呈呈呈呈喜呈呈呈呈呈...
+2025-08-12 20:13:55,116 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:14:17,914 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三〝粕⑪臺言喜臺言臺臺三臺喜葺臺臺臺臺呈臺臺呈呈呈呈喜呈呈呈呈呈...
+2025-08-12 20:14:17,914 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:14:41,352 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8ー盲ご萱量臺菫量臺臺亘言壱言亨言壹ー言言亨言萱壹‥言萱...
+2025-08-12 20:14:41,353 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:14:41,806 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2025-08-12 20:15:04,394 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V82呈D量臺葺臺喜菫臺臺臺臺喜臺三菫喜菫菫壬曇臺三呈。呈吾夏三…呈三喜...
+2025-08-12 20:15:04,394 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:15:04,813 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-08-12 20:15:27,937 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8喜言臺喜言亨宣看萱喜ご喜言言言言喜皇喜量言宣亘董宣aー喜こ章真章ー亘喜ー章董亘...
+2025-08-12 20:15:27,937 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:15:28,366 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2025-08-12 20:15:53,368 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8ー喜亘喜言臺量皇妻雪菫言言菫臺喜呈喜暑喜言喜亘三...
+2025-08-12 20:15:53,369 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:15:53,802 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-08-12 20:16:18,895 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8呈三i萱臺亘言妻臺冒章妻喜臺臺喜言雪喜菖言瘻皇喜言言喜臺青雇曇言...
+2025-08-12 20:16:18,895 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:16:19,284 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-08-12 20:16:45,735 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8呈三i萱臺亘言妻臺冒章妻喜臺臺喜言雪喜菖言瘻皇喜言言喜臺青雇曇言...
+2025-08-12 20:16:45,735 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:17:07,959 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:17:07,959 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:17:08,362 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-08-12 20:17:30,616 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:17:30,617 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:17:52,703 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:17:52,703 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:18:15,305 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:18:15,306 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:18:38,139 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:18:38,139 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:19:00,715 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:19:00,716 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:19:23,764 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:19:23,765 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:19:46,630 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8董壽言菫言亘亘言宣喜言鼻重喜亘ー宣宣宣言亘ーー董亘亘ー曇亡ーー工ご言ー...
+2025-08-12 20:19:46,630 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:20:02,859 - ultimate_main - INFO - OCR detected text: nY〇L〇瑯8ー真ーーーご董亡ーーiこナー「p牛aーーーーCh。...
+2025-08-12 20:20:02,859 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:20:03,401 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-12 20:20:21,921 - ultimate_main - INFO - OCR detected text: nY〇L。〝8董ー臺曇ー臺工亡ーーiこナー「p牛aーーーーCh。...
+2025-08-12 20:20:21,921 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:20:22,348 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-12 20:20:44,732 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8…亨臺言言菫菫言呈菫享言茎喜喜亘茎喜言量言皇青喜夏ー亘享喜菫臺...
+2025-08-12 20:20:44,732 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:20:45,161 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-08-12 20:21:06,905 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8…亨臺言言菫菫言呈菫享言茎喜喜亘茎喜言量言皇青喜夏ー亘享喜菫臺...
+2025-08-12 20:21:06,905 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:21:28,708 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8…亨臺言言菫菫言呈菫享言茎喜喜亘茎喜言量言皇青喜夏ー亘享喜菫臺...
+2025-08-12 20:21:28,709 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:22:47,692 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8簾言言董宣實蓋臺臺言葺言亘言呈臺量量亘曇呈言言言萱了言看萱呈言...
+2025-08-12 20:22:47,693 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:22:48,222 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-08-12 20:23:08,745 - ultimate_main - INFO - OCR detected text: ー ン ョ ⑤ 向 る 向 2.10)...
+2025-08-12 20:23:08,746 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:23:09,165 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-08-12 20:23:29,627 - ultimate_main - INFO - OCR detected text: ー ン ョ ⑤ 向 る 向 2.10)...
+2025-08-12 20:23:29,627 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:23:50,451 - ultimate_main - INFO - OCR detected text: ー ン ョ ⑤ 向 る 向 2.10)...
+2025-08-12 20:23:50,451 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:24:12,012 - ultimate_main - INFO - OCR detected text: ー ン ョ ⑤ 向 る 向 2.10)...
+2025-08-12 20:24:12,013 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:24:33,322 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:24:33,322 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:24:33,740 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2025-08-12 20:24:54,974 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:24:54,974 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:25:17,052 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:25:17,052 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:25:38,263 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:25:38,264 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:26:00,163 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:26:00,163 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:26:21,976 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:26:21,976 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:26:43,990 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:26:43,991 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:27:05,371 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:27:05,371 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:27:27,206 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:27:27,206 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:27:49,213 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:27:49,214 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:28:10,595 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:28:10,595 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:28:32,123 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言言臺喜量喜皇皇茎呈呈g臺呈呈喜呈翼呈言呈n臺呈呈呈呈呈吾曇島喜...
+2025-08-12 20:28:32,124 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:28:56,664 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三剛⑪量亘臺言宣壹雪喜喜言享重言言言壹言言‥喜妻喜言臺言喜言言臺...
+2025-08-12 20:28:56,664 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:28:57,365 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-08-12 20:29:19,152 - ultimate_main - INFO - OCR detected text: っ 1. し し し し し し...
+2025-08-12 20:29:19,152 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:29:19,569 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-08-12 20:29:40,433 - ultimate_main - INFO - OCR detected text: し し し DB っ ① し 6. し DB...
+2025-08-12 20:29:40,433 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:29:40,835 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2025-08-12 20:29:58,881 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8ー喜th享こ喜睾ー亘ーー臺e鼻喜臺hn墓菫ー菫喜ー臺臺ーこーー了naーーesーーーロhーー$ごーーーー[ごー...
+2025-08-12 20:29:58,881 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:29:59,395 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-08-12 20:30:21,425 - ultimate_main - INFO - OCR detected text: し し し ( し こ れ は テ ス ト っ こ れ は テ ス ト で...
+2025-08-12 20:30:21,425 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:30:21,954 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-12 20:30:40,443 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8音呈量重宣喜言量喜畳喜亘宣量喜亘具菫喜言f0rmat5itniceーyf0ry0ur…...
+2025-08-12 20:30:40,443 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:30:40,863 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+2025-08-12 20:31:02,623 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8菫亘喜重宣言享ご喜賣宣喜喜宣ー言享重宣宣言宣言量青t壹養青言三宣言亘...
+2025-08-12 20:31:02,623 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:31:03,073 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-12 20:31:35,914 - ultimate_main - INFO - OCR detected text: に ー に ム コ ー リ ー ム コ に ム ー い に リ ー ム コ い ム ー コ マ イ い こ に バ コ ニ リ 縄。p璽QU剛pqu鼠鱒蹄酬 匡圃ー{囁ー 13) ① 霊 ニ . ① ...
+2025-08-12 20:31:35,915 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:31:36,354 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 22
+}
+]
+2025-08-12 20:32:11,189 - ultimate_main - INFO - OCR detected text: コ コ ュ ー ー ョ ー い コ に ン ブ ー に ム ー リ ト コ に ホ ー に ー リ ー ト コ い ム コ ー コ マ ブ い こ に バ コ ニ リ ② ビ ス ー 山 璽圃ー 0 ...
+2025-08-12 20:32:11,189 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:32:11,762 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-08-12 20:32:24,106 - ultimate_main - INFO - OCR detected text: ーeニ量f「ーーー着ー董誉ーーーー.ーcごs亡geー...
+2025-08-12 20:32:24,106 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:32:24,512 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-08-12 20:32:46,848 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8菫亘喜重宣言享ご喜賣宣喜喜宣ー言享重宣宣言宣言量青t壹養青言三宣言亘...
+2025-08-12 20:32:46,848 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:33:09,837 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8菫亘喜重宣言享ご喜賣宣喜喜宣ー言享重宣宣言宣言量青t壹養青言三宣言亘...
+2025-08-12 20:33:09,838 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:33:36,557 - ultimate_main - INFO - OCR detected text: 帥鵬⑬蝸 1 つ い A コ キ こ い ァ ペ ョ ョ レ キ ュ レ ワ キ ロ ① ュ キ ベ レ レ ト...
+2025-08-12 20:33:36,557 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:33:37,022 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+]
+2025-08-12 20:34:03,166 - ultimate_main - INFO - OCR detected text: 帥鵬⑬蝸 1 つ い A コ キ こ い ァ ペ ョ ョ レ キ ュ レ ワ キ ロ ① ュ キ ベ レ レ ト...
+2025-08-12 20:34:03,166 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:34:29,217 - ultimate_main - INFO - OCR detected text: 帥鵬⑬蝸 1 つ い A コ キ こ い ァ ペ ョ ョ レ キ ュ レ ワ キ ロ ① ュ キ ベ レ レ ト...
+2025-08-12 20:34:29,217 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:34:55,794 - ultimate_main - INFO - OCR detected text: 帥鵬⑬蝸 1 つ い A コ キ こ い ァ ペ ョ ョ レ キ ュ レ ワ キ ロ ① ュ キ ベ レ レ ト...
+2025-08-12 20:34:55,794 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:35:22,359 - ultimate_main - INFO - OCR detected text: 帥鵬⑬蝸 1 つ い A コ キ こ い ァ ペ ョ ョ レ キ ュ レ ワ キ ロ ① ュ キ ベ レ レ ト...
+2025-08-12 20:35:22,359 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:35:47,898 - ultimate_main - INFO - OCR detected text: ①. し し 2. し し し 3. し し し...
+2025-08-12 20:35:47,899 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:35:48,352 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-08-12 20:36:14,157 - ultimate_main - INFO - OCR detected text: ①. し し 2. し し し 3. し し し...
+2025-08-12 20:36:14,157 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:36:38,543 - ultimate_main - INFO - OCR detected text: 三三言三nY〇L〇幟壽喜宣書言呈臺昌…呈呈主員呈喜三三臺言三...
+2025-08-12 20:36:38,544 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:36:39,071 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-08-12 20:37:06,291 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8宣宣髏臺菫皇菫菫臺喜言喜宣萱臺...
+2025-08-12 20:37:06,291 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:37:06,753 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-08-12 20:37:34,077 - ultimate_main - INFO - OCR detected text: プ し ② A し ② A い ン リ つ ロ ー イ ー ネ ン イ ビ ー ン て と ビ で ロ ー ベ イ ー ャ ヤ ー ン レ ー ペ ー レ ー ン プ ロ コ ー ビ ー ン ベ イ ...
+2025-08-12 20:37:34,078 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:37:34,520 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-12 20:37:47,951 - ultimate_main - INFO - OCR detected text: p量董e臺三三言三nY〇L〇〉8...
+2025-08-12 20:37:47,951 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:38:13,630 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8吾言言菫墓壹呈言量宣菫覇主董ごー亨呈‥ー壬言喜董童宣亘喜宣亘宣亘董亘暑...
+2025-08-12 20:38:13,630 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:38:14,068 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-08-12 20:38:39,299 - ultimate_main - INFO - OCR detected text: ー ー曰‥ ー ビ ビ リ リ ドー つ ー リ レ ら ス イ ー と に リ 00 に ウ に ら C ー...
+2025-08-12 20:38:39,299 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:38:39,869 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-08-12 20:39:10,718 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8菫臺皇喜皇童喜霊壽言菫臺臺菫臺宣暑重言...
+2025-08-12 20:39:10,718 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:39:11,101 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-08-12 20:39:33,398 - ultimate_main - INFO - OCR detected text: 須 ー ー 0 A 2 も 蝸 必 ニ ① ョ ョ ョ ョ ョ ョ ョ ョ ョ ョ ョ ョ ョ ョ ョ...
+2025-08-12 20:39:33,398 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:39:33,828 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-12 20:39:51,377 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8ご言喜喜臺皐曇ーu呈-=亡ー鼻臺璽ーーーー具ーここ臺ーこ董亡了Sー亡亡ー土h...
+2025-08-12 20:39:51,377 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:39:51,880 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-08-12 20:40:09,493 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8ご言喜喜臺皐曇ーu呈-=亡ー鼻臺璽ーーーー具ーここ臺ーこ董亡了Sー亡亡ー土h...
+2025-08-12 20:40:09,493 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:40:32,419 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8ご言喜喜臺皐曇ーu呈-=亡ー鼻臺璽ーーーー具ーここ臺ーこ董亡了Sー亡亡ー土h...
+2025-08-12 20:40:32,420 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:44:32,002 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8ご言喜喜臺皐曇ーu呈-=亡ー鼻臺璽ーーーー具ーここ臺ーこ董亡了Sー亡亡ー土h...
+2025-08-12 20:44:32,002 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:45:34,411 - ultimate_main - INFO - OCR detected text: ど ら ら っ に に ら 3. . ミ . 4. ....
+2025-08-12 20:45:34,411 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:45:35,119 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-08-12 20:45:57,000 - ultimate_main - INFO - OCR detected text: 0 も 胴 ー 一 一 一 ー ニ ー . ン 55 ( よ ー ム …柏…軋 で 2.10)...
+2025-08-12 20:45:57,000 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 20:45:57,472 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-08-12 20:46:22,350 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。v8H曇言g臺臺菫喜至亘茎臺言喜喜臺章言言茎言喜言暑亘言ヱ...
+2025-08-12 20:46:22,351 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:46:22,763 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-12 20:46:46,184 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三nY。L。V8言三言壽喜呈彗皇言呈睾喜皇暑呈睾睾呈昌量呈萱...
+2025-08-12 20:46:46,184 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: False
+2025-08-12 20:46:46,755 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-08-12 20:47:41,717 - ultimate_main - INFO - OCR detected text: 皇言亘宣言三n沁剛言ー雪喜言喜壽言呈量喜臺菫量菖曇書蓋壽呈量章董...
+2025-08-12 20:47:41,718 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: False
+2025-08-12 20:47:42,114 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-08-12 20:48:01,711 - ultimate_main - INFO - OCR detected text: C し ー 一...
+2025-08-12 20:48:01,712 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: True
+2025-08-12 20:48:02,247 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-08-12 21:00:23,065 - ultimate_main - INFO - OCR detected text: C し ー 一...
+2025-08-12 21:00:23,065 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: True
+2025-08-12 21:00:41,096 - ultimate_main - INFO - OCR detected text: G言…三臺臺。ckー亡ー亡uごperこayA=M。deーs〉言臺Reque離C。ump俳Day...
+2025-08-12 21:00:41,096 - ultimate_main - INFO - Japanese: True, Numbers: False, Options: True
+2025-08-12 21:00:43,071 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+]
+2025-08-12 21:47:27,784 - ultimate_main - INFO - 🚀 Initializing Ultimate Japanese Quiz Solver
+2025-08-12 21:47:27,785 - ultimate_main - INFO - ✅ Database initialized at quiz_data\quiz_history.db
+2025-08-12 21:47:27,785 - ultimate_main - INFO - ✅ Gemini AI provider initialized
+2025-08-12 21:47:27,785 - ultimate_main - INFO - 🤖 Available AI providers: ['gemini']
+2025-08-12 21:47:27,803 - ultimate_main - INFO - ✅ Tesseract OCR 5.3.3.20231005 ready
+2025-08-12 21:47:27,819 - ultimate_main - INFO - ✅ Japanese language pack available
+2025-08-12 21:47:27,822 - ultimate_main - INFO - ✅ Ultimate Quiz Solver initialized successfully
+2025-08-12 21:48:06,195 - ultimate_main - INFO - OCR detected text: レ ② し し し と し し し し レ し し し し し ァ ァ ァ ァ し い し し し レ し レ し ァ ー マ し し ヒ コ 國 か き ま す か か ら い ち ば ん い し ...
+2025-08-12 21:48:06,195 - ultimate_main - INFO - Japanese: True, Numbers: True, Options: True
+2025-08-12 21:48:08,206 - ultimate_main - ERROR - ❌ gemini failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]

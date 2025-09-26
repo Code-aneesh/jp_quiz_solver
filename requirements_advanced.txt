@@ -1,0 +1,6 @@
+mss
+pillow
+pytesseract
+google-generativeai
+openai
+cachetools
